@@ -34,10 +34,12 @@ ul {
     list-style-type: none;
     text-align: center;
     padding: 0;
+    margin: 0;
 }
 ul li {
     display: inline-block;
     padding: 50px;
+    margin: 0;
 }
 ul li img {
     height: 50px;
