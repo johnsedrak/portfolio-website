@@ -36,7 +36,7 @@ ul {
     padding: 0;
 }
 ul li {
-    display: inline;
+    display: inline-block;
     padding: 50px;
 }
 ul li img {
